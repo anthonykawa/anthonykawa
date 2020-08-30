@@ -1,6 +1,6 @@
 ### Hi, I'm Anthony 👋
-- I’m currently trying to flex my profile readme
-- I use daily: `.js` `.jsx` `.ts` `.tsx` `.md` `.py` `.scss` `.png` `.json`
+- 💪 I’m currently trying to flex my profile readme
+- ⚙️ I use daily: `.js` `.jsx` `.ts` `.tsx` `.md` `.py` `.scss` `.png` `.json`
 ### 📫 How to reach me:
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/anthonyk2020"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
