@@ -1,12 +1,12 @@
 ### Hi there 👋
 ### 📫 How to reach me:
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/satvik_codes"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
+<a href="https://twitter.com/anthonyk2020"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/satvikchachra/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
+<a href="https://www.linkedin.com/in/anthony-kawa-7b34043a/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
 
-[@satvik_codes](https://twitter.com/satvik_codes) &nbsp;&nbsp;&nbsp;
-[@anthony_kawa](https://www.linkedin.com/in/anthony-kawa-7b34043a/)ra
+[@anthonyk2020](https://twitter.com/anthonyk2020) &nbsp;&nbsp;&nbsp;
+[@anthony_kawa](https://www.linkedin.com/in/anthony-kawa-7b34043a/)
 <!--
 **anthonykawa/anthonykawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
